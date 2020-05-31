@@ -1,6 +1,6 @@
 # Ahmet Ethem DANIŞ
 # 1950054008
-# Neuroevolution Algoritm on Flappy Bird
+# Neuroevolution Algorithm on Flappy Bird
 
 import pygame
 import random
